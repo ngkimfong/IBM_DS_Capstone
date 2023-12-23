@@ -1,2 +1,3 @@
 # IBM_DS_Capstone
-IBM Applied Data Science Capstone
+This is for all the Python programming done for IBM Applied Data Science Capstone
+
